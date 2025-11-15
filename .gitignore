@@ -7,3 +7,4 @@ sample_for_pocket.py
 tmp/*
 evaluation/.gitignore
 _test/*
+ckpt/pretrained_Pocket2Mol.pt
